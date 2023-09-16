@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Z3R003
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
+- 📫 How to reach me z3r003 on discord
