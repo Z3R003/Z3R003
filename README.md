@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
 
-- 🔭 I’m currently working on **Discord Bot Generator**
+- 🔭 I’m currently working on **Discord Bot Dm Fucker**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **Discord: z3r003**
 
