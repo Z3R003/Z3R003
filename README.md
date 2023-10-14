@@ -2,7 +2,7 @@
 <h3 align="center">A Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
-![ima![fffffff](https://github.com/Z3R003/Z3R003/assets/139226148/aa53bcb2-a6aa-4949-bd60-ef768adf0832)
+![image[](https://github.com/Z3R003/Z3R003/assets/139226148/aa53bcb2-a6aa-4949-bd60-ef768adf0832)
 
 - 🔭 I’m currently working on **Discord Bot Dm Fucker**
 
