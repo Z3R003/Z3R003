@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Z3R003</h1>
 <h3 align="center">A Python programmer</h3>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
-<iframe src="https://giphy.com/embed/3og0ILLVvPp8d64Jd6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">via GIPHY</a></p>
+
 - 🔭 I’m currently working on **Discord Bot Dm Fucker**
 
 - 📫 How to reach me **Discord: real_z3r003**
