@@ -2,8 +2,7 @@
 <h3 align="center">A Python programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
-![image[](https://github.com/Z3R003/Z3R003/assets/139226148/aa53bcb2-a6aa-4949-bd60-ef768adf0832)
-
+<iframe src="https://giphy.com/embed/3og0ILLVvPp8d64Jd6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">via GIPHY</a></p>
 - 🔭 I’m currently working on **Discord Bot Dm Fucker**
 
 - 📫 How to reach me **Discord: real_z3r003**
