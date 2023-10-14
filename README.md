@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Z3R003</h1>
 <h3 align="center">A Python programmer</h3>
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
