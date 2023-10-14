@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r003&label=Profile%20views&color=0e75b6&style=flat" alt="z3r003" /> </p>
 
-- 🔭 I’m currently working on **Discord Bot Dm Fucker**
+- 🔭 I’m currently working on **Discord EV Token Generator**
 
 - 📫 How to reach me **Discord: real_z3r003**
 
